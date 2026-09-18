@@ -112,7 +112,7 @@
         <span class="eyebrow">Semangat belajar, Nabila!</span>
         <h1>Nabila Computer Asisten Test</h1>
         <p>Aplikasi ini dibuat untuk membantu nabila belajar dan mengerjakan simulasi tes, semoga membantu
-           dan sayang senang dengan aplikasinyaaaaa. SEMANGATTTTT SAYAAAAAAA</p>
+           dan sayang senang dengan aplikasinyaaaaa. SEMANGATTTT SAYAAAANG!!!</p>
       </section>
       <section class="paket-grid">${cards}</section>
       ${materiCard()}
