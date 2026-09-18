@@ -111,9 +111,8 @@
       <section class="hero">
         <span class="eyebrow">Semangat belajar, Nabila!</span>
         <h1>Nabila Computer Asisten Test</h1>
-        <p>Setiap soal yang kamu kerjakan hari ini membawamu selangkah lebih dekat ke hari kelulusan.
-           Pelajari materinya pelan-pelan, kerjakan tesnya dengan tenang, dan percayalah pada kemampuanmu.
-           Kamu sudah berjuang sejauh ini, kamu pasti bisa!</p>
+        <p>Aplikasi ini dibuat untuk membantu nabila belajar dan mengerjakan simulasi tes, semoga membantu
+           dan sayang senang dengan aplikasinyaaaaa. SEMANGATTTTT SAYAAAAAAA</p>
       </section>
       <section class="paket-grid">${cards}</section>
       ${materiCard()}
