@@ -1,0 +1,5 @@
+# File sumber (tidak dibutuhkan website)
+*.pdf
+
+# Python
+__pycache__/
